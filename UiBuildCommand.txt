@@ -1,1 +1,0 @@
-C:\Qt\5.15.1\msvc2019_64\bin\uic.exe C:\Users\YoppY\Documents\開発\CalculatorWithQt\CalculatorWithQt.ui -o C:\Users\YoppY\Documents\開発\CalculatorWithQt\ui_CalculatorWithQt.h

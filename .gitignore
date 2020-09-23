@@ -50,7 +50,3 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
-
-.vs/CalculatorWithQt/v16/Browse.VC.opendb
-*.vs/CalculatorWithQt/v16/Browse.VC.opendb
-
